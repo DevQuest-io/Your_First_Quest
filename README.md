@@ -5,17 +5,17 @@
 1) Fork this repo - Click on the fork button on the top-right of this page
 2) Clone the forked repo to your local machine
 ```
-git clone https://github.com/<your_github_username>/IEDC-Tech-Trainees.git
+git clone https://github.com/<your_github_username>/Your_First_Quest.git
 ```
-3) Navigate into the respective task folder
-4) Add your name in name.md file
+3) Navigate into the respective folder
+4) Add your favourite memes to the folder or Add your name in name.md file 
 5) Add your changes using git
 ```
 git add .
 ```
 6) Commit your changes using git
 ```
-git commit -m "Added <your_name> Project"
+git commit -m "Added <your_name>"
 ```
 7) Push the changes to Github
 ```
